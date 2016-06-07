@@ -1,5 +1,5 @@
 # Bootstrap-Resolution-Checker
-Just plug right after <body> marker.
+Just paste this code right after <body> marker.
 
 ```html
 <div style="background: black; position: fixed; top: 0; left:0; z-index: 99999; color: white; padding: 30px;">
